@@ -2,5 +2,5 @@
   "name": "ethereum",
   "symbol": "eth",
   "algorithm": "ethash",
-  "blockReward":3000000000000000000
+  "blockReward":2000000000000000000
 }
